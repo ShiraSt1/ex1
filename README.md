@@ -1,3 +1,5 @@
 # ex1
 hi my name is shira!
-im 19 years old
+Im 19 years old
+
+my family name is Stern
